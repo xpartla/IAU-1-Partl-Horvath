@@ -15,3 +15,5 @@ pydot
 jupyterlab
 notebook
 wandb
+tensorflow
+keras
